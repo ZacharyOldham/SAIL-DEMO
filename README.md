@@ -1,1 +1,1 @@
-# SAIL-DEMO
+Congrats, you cloned the sail demo
